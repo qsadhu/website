@@ -2,7 +2,7 @@
 
 com="$1"
 
-hugo -D -d ../website
+hugo -D -d ../qsadhu.github.io
 
 cd ../website
 git add *
